@@ -1,0 +1,54 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "BootStrap",
+    "imageSrc": "skills/bootstrap.svg"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.png"   
+  },
+  
+  {
+    "title": "Canva",
+    "imageSrc": "skills/01.png"
+  },
+
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "skills/express.png"
+  },
+  
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "MySql",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "WordPress",
+    "imageSrc": "skills/wordpress.png"
+  }
+ 
+]

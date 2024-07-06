@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Web Developer and Web Designer",
+    "organisation": "Oasis Infobyte",
+    "startDate": "Oct, 2023",
+    "endDate": "Nov, 2023",
+    "experiences": ["Worked on Front-end","Designed the UI of web application", "Did projects of Web development"],
+    "imageSrc": "history/oasis.jpg"
+  },
+  {
+    "role": "ReactJs Developer",
+    "organisation": "Tech elecon pvt ltd",
+    "startDate": "Dec, 2023",
+    "endDate": "May, 2024",
+    "experiences": ["Worked on React project", "Created Bug tracking system"],
+    "imageSrc": "history/techElecon.png"
+  }
+]

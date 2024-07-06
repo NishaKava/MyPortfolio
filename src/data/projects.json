@@ -1,0 +1,26 @@
+[
+  {
+    "title": "TODO App",
+    "imageSrc": "projects/todo.png",
+    "description": "App allow to add item to a list . Also, user can mark a task as 'complete' upon successful completion and it will be appear in Completed tasks list. ",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/NishaKava/TickTask_ToDoApp"
+  },
+  {
+    "title": "Text-Utils App",
+    "imageSrc": "projects/txt.png",
+    "description": "TextUtils is a text based utility which can be used to manipulate your text in the way you want like copy, paste, undo, redo, etc.This project helps me  to learn the Reactjs by building an app.",
+    "skills": ["HTML", "CSS", "JavaScript","React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/NishaKava/TextUtils-React"
+  },
+  {
+    "title": "LoginAutentication System",
+    "imageSrc": "projects/bh.jpg",
+    "description": "Login authentication system made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JavaScript","React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/NishaKava/Login_Authentication_system"
+  }
+]
